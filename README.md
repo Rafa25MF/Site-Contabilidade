@@ -2,6 +2,7 @@
 
 > Site institucional para escritório de contabilidade, com páginas de serviços, sobre, contato e muito mais.
 
+[![License](https://img.shields.io/badge/license-Rafa25MF-green)]()  
 ---
 
 ## 📌 Índice
@@ -39,7 +40,12 @@ O site é responsivo, moderno e de fácil navegação.
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias  
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</div>
 
 | Ferramenta / Linguagem | Uso |
 |-------------------------|------------------------------|
@@ -47,7 +53,8 @@ O site é responsivo, moderno e de fácil navegação.
 | **CSS3**               | Estilização e responsividade |
 | **JavaScript**         | Funcionalidades interativas  |
 
-*(Adapte se tiver usado Bootstrap, jQuery, etc.)*
+*(Adapte se tiver usado frameworks ou bibliotecas adicionais, como Bootstrap ou jQuery)*
+
 
 ---
 
